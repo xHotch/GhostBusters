@@ -3,6 +3,8 @@ Demo project for the course "Real-Time Rendering" at the TU Wien
 Created by Victor Mittermair and Philipp Hochhauser
 
 <img src="images/screenshot-ghostbusters.png">
+[![Ghost Buster](https://img.youtube.com/vi/taCr82fTcis/0.jpg)](https://www.youtube.com/watch?v=taCr82fTcis)
+
 
 # Controls
 - Enter : Restart the scene.

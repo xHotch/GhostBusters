@@ -2,8 +2,11 @@
 Demo project for the course "Real-Time Rendering" at the TU Wien
 Created by Victor Mittermair and Philipp Hochhauser
 
-<video controls src="assets/video-ghostbusters.mp4" title="Title"></video>
-https://github.com/xHotch/GhostBusters/blob/master/assets/video-ghostbusters.mp4
+
+
+https://github.com/xHotch/GhostBusters/assets/37404573/d3259e3f-6cff-43e4-9d8b-8cf8696b46e6
+
+
 # Controls
 - Enter : Restart the scene.
 - F1 : Toggle Wireframe rendering.
